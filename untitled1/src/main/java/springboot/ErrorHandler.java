@@ -1,4 +1,4 @@
-package springboot.topjava.ru;
+package springboot;
 
 import org.springframework.http.client.ClientHttpResponse;
 import org.springframework.web.client.DefaultResponseErrorHandler;

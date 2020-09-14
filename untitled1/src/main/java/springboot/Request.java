@@ -1,4 +1,4 @@
-package springboot.topjava.ru;
+package springboot;
 
 public class Request {
 
